@@ -1,0 +1,7 @@
+itemName, itemImage, health, count, katman
+dirt,dirt.png, 20, 100, 5
+gold_ore,gold_ore.png, 50, 50,4
+emerald_ore,emerald_ore.png, 100, 20,3
+stone,stone.png, 40, 100,2
+andesite,andesite.png,50,100,1
+jungle_log, jungle_log.png, 10, 10, 6
